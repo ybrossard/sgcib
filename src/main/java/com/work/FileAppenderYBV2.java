@@ -1,4 +1,4 @@
-package com.home.log;
+package com.work;
 
 import java.io.BufferedWriter;
 import java.io.IOException;
